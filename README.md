@@ -45,8 +45,8 @@ else:
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
 Program to find the element in a list using Binary Search(Iterative Method)..
-Developed by: Kothai K
-RegisterNumber:22006043
+Developed by: Kamalesh V
+RegisterNumber:212222240042
 '''
 def binarySearchIter(array, k, low, high):
     while low<=high:
